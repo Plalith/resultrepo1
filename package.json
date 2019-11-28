@@ -1,0 +1,21 @@
+{
+  "name": "resultrepo",
+  "version": "1.0.0",
+  "description": "result repo nodejs code",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lalith Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "jsonwebtoken": "^8.4.0",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.4.8",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  }
+}

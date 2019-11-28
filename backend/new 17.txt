@@ -1,0 +1,26 @@
+
+// For Duplicate User 
+
+{
+   "responseCode": 200,
+   "message":"Duplicate User",
+   "status":"FAILURE",
+   "data": null
+}
+
+// If Already mapped 
+
+{
+   "responseCode": 200,
+   "message":"Duplicate mapping,
+   "status":"FAILURE",
+   "data": null
+	}
+	
+	// list of mapped user API 
+	// modification in delete API not as per requirment
+	
+	
+
+==> need one more parameter in get eneterprise List "SdwamProfileLimit-count"
+
