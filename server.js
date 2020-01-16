@@ -7,7 +7,7 @@ const api = require("./backend/api");
 var jwt = require("jsonwebtoken");
 // app.use(function(req, res, next) {
 //     if((!req.secure) && (req.get("X-Forwarded-Proto") !== "https")) {
-//         res.redirect("https://resultrepo.com"+ req.url);
+//         res.redirect("https://3.122.133.58"+ req.url);
 //     }
 //     else
 //         next();
